@@ -7,3 +7,5 @@
 [Mapa mental 1](https://github.com/Britany01/MineriaDeDatos/blob/main/MapaMental_1_1852645%20(1).pdf)
 
 [Ejercicio base de datos - Equipo 6](https://github.com/LuisaGHerrera/MineriaDeDatos/blob/main/Equipo_6-Ejercicio%20base%20de%20datos%20.pdf)
+
+[EjerciciosBasicosPython1] (https://github.com/Britany01/MineriaDeDatos/blob/main/Ej_Python_1852645.ipynb)
