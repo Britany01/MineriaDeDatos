@@ -9,3 +9,7 @@
 [Ejercicio base de datos - Equipo 6](https://github.com/LuisaGHerrera/MineriaDeDatos/blob/main/Equipo_6-Ejercicio%20base%20de%20datos%20.pdf)
 
 [Ejercicios Basicos Python1](https://github.com/Britany01/MineriaDeDatos/blob/main/Ej_Python_1852645.ipynb)
+
+
+[Practica 1- Limpieza de datos](https://github.com/LuisaGHerrera/MineriaDeDatos/blob/main/Ej_Limpieza_Equipo6.ipynb)
+
