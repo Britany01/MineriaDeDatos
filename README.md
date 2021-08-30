@@ -13,4 +13,4 @@
 
 [Practica 1- Limpieza de datos](https://github.com/LuisaGHerrera/MineriaDeDatos/blob/main/Ej_Limpieza_Equipo6.ipynb)
 
-[Avance1_PIA_Equipo6](https://github.com/LuisaGHerrera/MineriaDeDatos/blob/main/Avance1_PIA_Equipo6.ipynb)
+[Avance1 PIA ](https://github.com/LuisaGHerrera/MineriaDeDatos/blob/main/Avance1_PIA_Equipo6.ipynb)
