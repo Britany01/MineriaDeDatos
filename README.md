@@ -24,4 +24,4 @@
 
 [Practica 2 - Visualización](https://github.com/LuisaGHerrera/MineriaDeDatos/blob/main/Visualizaci%C3%B3n_Equipo6.ipynb)
 
-[Avance 2 PIA]()
+[Avance 2 PIA](https://github.com/LuisaGHerrera/MineriaDeDatos/blob/main/AvancePIA_II_01_Equipo6.ipynb)
